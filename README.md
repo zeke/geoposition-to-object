@@ -48,7 +48,7 @@ navigator.geolocation.getCurrentPosition(function(position) {
 //     speed: null
 //   }
 // }
-
+```
 
 ## Tests
 
