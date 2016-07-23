@@ -1,6 +1,6 @@
 {
   "name": "geoposition-to-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn an HTML5 Geoposition object into a regular object that can be serialized with JSON.stringify",
   "main": "index.js",
   "scripts": {
