@@ -4,6 +4,10 @@ Turn an HTML5 Geoposition object into a regular object that can be serialized wi
 
 Pairs well with [geolocation-stream](https://ghub.io/geolocation-stream).
 
+See also [geoposition-to-geojson](https://github.com/zeke/geoposition-to-geojson), 
+a very similar module that coerces geoposition objects into a Mapbox and/or
+OpenStreetMap-ready format.
+
 ## Why
 
 When using the geolocation feature in browsers, the object you'll get back
